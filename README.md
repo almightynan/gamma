@@ -21,7 +21,7 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 ## 🎯 Why Gamma?
 
 - ✅ Minimal setup
-- ✅ Built with Python (easy to extend or hack)
+- ✅ Built with Python (easy to extend)
 - ✅ AI-assisted features for learning and productivity (default username is `nan`; password is `0001`)
 - ✅ Compatible with Windows, Linux, and macOS
 - ✅ Developed by students, for students
