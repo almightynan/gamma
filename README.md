@@ -5,7 +5,7 @@
 **Live Website**: [gamma.almightynan.cc](https://gamma.almightynan.cc)
 
 
-## 🔍 What is gamma?
+## What is gamma?
 
 gamma offers a lightweight interface to:
 
@@ -18,7 +18,7 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 
 > This started as a quick tool for my classmates and myself when we kept running into issues with WAMP. Now it's open source.
 
-## 🎯 Why Gamma?
+## Why Gamma?
 
 - ✅ Minimal setup
 - ✅ Built with Python (easy to extend)
@@ -26,7 +26,7 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 - ✅ Compatible with Windows, Linux, and macOS
 - ✅ Developed by students, for students
 
-## 🚀 Features
+## Features
 
 - **CLI-based SQL interaction**  
   Run MySQL queries directly from the app’s built-in terminal.
@@ -40,18 +40,18 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 - **Error-resistant design**  
   No more “missing DLL” issues — Gamma avoids common setup failures by not relying on bloated dependencies.
 
-## 🛠️ Future Plans?
+## Future Plans?
 
 - Maybe adding **PHP** and **Apache** support — think WampServer, but actually good.
 - Expanding the AI capabilities (explain queries, optimize performance, etc.)
 - More GUI improvements and export/import features.
 
-## 👥 Who’s it for?
+## Who’s it for?
 
 - Students
 - Beginners working with MySQL
 
-## 📦 Installation
+## Installation
 
 1. ```git clone https://github.com/yourusername/gamma```
 2. ```cd gamma```
@@ -60,7 +60,7 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 5. ```pip install -r requirements.txt```
 6. ```python main.py```
    
-## 📂 Project Structure
+## Project Structure
 
 ```
 gamma/
@@ -73,11 +73,11 @@ gamma/
 └── README.md            # You’re looking at it
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests welcome. If you’re someone who found WAMP annoying too — help make Gamma better.
 
-## 🪪 License
+## License
 
 ```
 MIT License
