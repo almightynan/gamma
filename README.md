@@ -28,9 +28,6 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 
 ## Features
 
-- **CLI-based SQL interaction**  
-  Run MySQL queries directly from the app’s built-in terminal.
-
 - **Table visualization**  
   Easily browse and inspect your database structure and contents.
 
@@ -39,12 +36,6 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 
 - **Error-resistant design**  
   No more “missing DLL” issues — Gamma avoids common setup failures by not relying on bloated dependencies.
-
-## Future Plans?
-
-- Maybe adding **PHP** and **Apache** support — think WampServer, but actually good.
-- Expanding the AI capabilities (explain queries, optimize performance, etc.)
-- More GUI improvements and export/import features.
 
 ## Who’s it for?
 
