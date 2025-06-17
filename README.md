@@ -44,7 +44,7 @@ It’s built to be simple, fast, and student-friendly — no more dealing with m
 
 ## Installation
 
-1. ```git clone https://github.com/yourusername/gamma```
+1. ```git clone https://github.com/almightynan/gamma```
 2. ```cd gamma```
 3. Download MySQL binaries from releases folder ([`releases > mysql5.7.40.zip`](https://github.com/AlmightyNan/gamma/releases/tag/production))
 4. Extract the downloaded `.zip` file, copy the folder and paste it within `gamma` directory.
